@@ -1,0 +1,37 @@
+{
+  "spacing": 3,
+  "view_width": 82,
+  "frame_rate": 45,
+  "linger_chance": 8,
+  "max_streams_per_column": 1,
+  "trail_length_weights": {
+    "2": 1,
+    "4": 1,
+    "7": 2,
+    "10": 4,
+    "14": 6,
+    "18": 7,
+    "22": 6,
+    "26": 5,
+    "30": 4,
+    "34": 2,
+    "38": 1
+  },
+  "ghost_length_weights": {
+    "3": 1,
+    "6": 3,
+    "8": 4,
+    "10": 6,
+    "12": 2
+  },
+  "darter_chance": 0.08,
+  "darter_speed_range": [ 0.03, 0.04 ],
+  "normal_speed_range": [ 0.045, 0.075 ],
+  "spawn_spacing_range": [ 4, 10 ],
+  "glyphs": "01|!lI/\\\\-_=+<>[]{}()$%#&*@?~",
+  "colors": {
+    "tail": 22,
+    "mid": 34,
+    "head": 82
+  }
+}
