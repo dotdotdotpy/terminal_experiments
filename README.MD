@@ -71,11 +71,14 @@ Key features:
 
 See [`neural_rain/neural_rain.py`](neural_rain/neural_rain.py)
 
+![Neural Rain Demo](neural_rain/demo.gif)
+
+
 ---
 
 ## Dependencies
 
-```bash
+
 pip install numpy sounddevice
 
 

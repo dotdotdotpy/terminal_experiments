@@ -1,5 +1,9 @@
 # Neural Rain - A Terminal Renderer That Went Too Far
 
+![Neural Rain Demo](neural_rain/demo.gif)
+
+(If you don't code, you can just run the .exe!)
+
 What started as a quick experiment in curses-based terminal animation spiraled into a deeply optimized, surgically chaotic renderer—one that doesn't fake the Matrix rain effect, but **emulates the underlying logic of it**.
 
 This isn't your average matrix.py script. This is glyph choreography.
