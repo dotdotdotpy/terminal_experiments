@@ -1,6 +1,6 @@
 # HOW TO CUSTOMIZE Neural Rain
 
-![Neural Rain Demo](neural_rain/demo.gif)
+![Neural Rain Demo](demo.gif)
 
 This guide explains all tunable settings in the `config` dictionary and the script itself for customizing your Neural Rain terminal renderer.
 

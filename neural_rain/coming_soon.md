@@ -1,6 +1,6 @@
 # Coming Soon: Neural Rain Evolution Roadmap
 
-![Neural Rain Demo](neural_rain/demo.gif)
+![Neural Rain Demo](demo.gif)
 
 ## Planned Features
 

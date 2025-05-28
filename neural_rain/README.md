@@ -1,6 +1,6 @@
 # Neural Rain - A Terminal Renderer That Went Too Far
 
-![Neural Rain Demo](neural_rain/demo.gif)
+![Neural Rain Demo](demo.gif)
 
 (If you don't code, you can just run the .exe!)
 
